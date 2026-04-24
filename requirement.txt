@@ -1,0 +1,5 @@
+pip install pandas==0.25.3
+pip install matplotlib==3.1.1
+pip install xgboost
+pip install sklearn
+pip install seaborn==0.10.1
